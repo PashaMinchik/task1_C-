@@ -1,0 +1,6 @@
+C:\Users\p.minchik\source\repos\Mydir\Test_for_task_1\Test_for_task_1\bin\Debug\Test_for_task_1.dll
+C:\Users\p.minchik\source\repos\Mydir\Test_for_task_1\Test_for_task_1\bin\Debug\Test_for_task_1.pdb
+C:\Users\p.minchik\source\repos\Mydir\Test_for_task_1\Test_for_task_1\obj\Debug\Test_for_task_1.csprojAssemblyReference.cache
+C:\Users\p.minchik\source\repos\Mydir\Test_for_task_1\Test_for_task_1\obj\Debug\Test_for_task_1.csproj.CoreCompileInputs.cache
+C:\Users\p.minchik\source\repos\Mydir\Test_for_task_1\Test_for_task_1\obj\Debug\Test_for_task_1.dll
+C:\Users\p.minchik\source\repos\Mydir\Test_for_task_1\Test_for_task_1\obj\Debug\Test_for_task_1.pdb
